@@ -1,0 +1,27 @@
+h1
+{
+text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: auto;
+}
+a
+#one{
+
+    
+    
+    color: red;
+
+}
+#two{
+    padding-left: 39%;
+    padding-right: 39%;
+    color: green;
+}
+#three{
+    text-align: right;
+    color: blue;   
+}
